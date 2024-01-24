@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5t6SUdPkfJJDVoTWQDdw
     access-key-secret: woqWp94lzIJ6nXjRZZbkOLJHAenNtj
     bucket-name: it-picture
+  redis:
+    host: localhost
+    port: 6379
+    password: zhs20021018
+    database: 1
